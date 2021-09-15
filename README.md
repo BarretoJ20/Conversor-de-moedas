@@ -4,4 +4,4 @@
  Deploy: https://barretoj20.github.io/Conversor-de-moedas/
 
  
- ![print](https://user-images.githubusercontent.com/50434610/133369886-6733ffd9-793b-4b3f-8bf1-66cd96d00140.png)
+![print-button-active](https://user-images.githubusercontent.com/50434610/133426522-d7009b79-9004-46ab-b4ba-617a240b12a4.png)
