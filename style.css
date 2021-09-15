@@ -1,0 +1,58 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+body{
+  background-color: #ffffff;
+  color: #150229;
+  height: 100vh;
+  display: flex;
+  font-family: 'Poppins',sans-serif;
+  
+}
+
+
+.container{
+  text-align: center;
+  padding: 90px;
+  height: 100vh;
+}
+
+.title{
+  font-size: 42px;
+  padding: 20px 20px 20px 20px;
+}
+
+.subtitle{
+  font-size: 24px;
+}
+
+button{
+  margin-top: 12px;
+  padding: 4px 8px;
+  border-radius: 10px;
+  background: #8148be;
+  color: #ffffff;
+}
+
+button:hover{
+  background: #442268;
+}
+
+label{
+  font-size: 18px;
+}
+
+input{
+  margin: 12px;
+  padding: 6px;
+  border-radius: 10px;
+  
+}
+
+
+h2{
+  margin-top: 20px;
+  color: #110420;
+  font-size: 24px;
+}
